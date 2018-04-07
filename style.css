@@ -20,6 +20,9 @@ html, body {
 	0% {transform: translateX(-100px);}
 	50%{transform:translate(100px);}
 }
+#move{ 
+	animation-name:change;
+	animation-duration: 10s;}
 #blue{
 	animation-name:rainbow;
 	animation-duration: 10s;
