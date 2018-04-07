@@ -70,6 +70,7 @@ h1 {
 	/*TODO: Change the color of h1 text*/ color:#00ff7f
 	animation-name: change;
 	animation-duration:10s;
+	font-family: 'Raleway', sans-serif;
 }
 
 img {
